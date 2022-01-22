@@ -1,0 +1,4 @@
+the folder contains the files for H-shaped steel coating detection.
+The study uses deep neural network to detect the coating thickness of H-shaped steel.
+MobileNetV2 is the main model and the accuracy is about 93%.
+The result can be embedded with a single board computer and the coating equipment to detect the thickness automatically.
